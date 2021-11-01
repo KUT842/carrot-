@@ -21,8 +21,8 @@
       "required": true
     }
   },
-  "website": "https://github.com/KUT842/carrot",
-  "repository": "https://github.com/KUT842/carrot",
+  "website": "https://github.com/KUT842/carrot-",
+  "repository": "https://github.com/KUT842/carrot-",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
